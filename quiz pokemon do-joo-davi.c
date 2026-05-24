@@ -1,3 +1,6 @@
+//Nome; João Davi Bastos da Silva
+//Turma: Primeiro Período de C.C - Uninassau jockey
+//Sistema do Quiz: pokémon interativo
 // Importa a biblioteca padrao de entrada e saida (Standard Input Output). 
 // Necessaria para usar os comandos printf (mostrar na tela) e scanf (ler do teclado).
 #include <stdio.h> 
@@ -362,7 +365,7 @@ int main()
             }
         }
         // Este 'else if' pertence ao primeiro 'if' la de cima (o menu inicial onde ele escolhe entrar ou fugir).
-        // Se a opcao la do come�o foi 2 (Sair).
+        // Se a opcao la do começo foi 2 (Sair).
         else if(opcao == 2) 
         {
             // Mensagem dizendo que fugiu.
